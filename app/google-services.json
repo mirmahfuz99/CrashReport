@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "973933513356",
+    "firebase_url": "https://crashreport-5d7a0.firebaseio.com",
+    "project_id": "crashreport-5d7a0",
+    "storage_bucket": "crashreport-5d7a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973933513356:android:ca062612bc4337eb",
+        "android_client_info": {
+          "package_name": "io.respay.crashreport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973933513356-g4quad2cjcjlt14ggt22eg1usut5d5og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqjo_PJbCk3ow5o0Fx60sseqwdAy2QiAg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
